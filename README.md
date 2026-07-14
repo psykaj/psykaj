@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning **AWS (IAM, S3, RDS) alongside my existing Azure background**.
 - 💞️ I'm looking to collaborate on **backend/cloud projects, automation tools, and AI-integrated web apps**.
 - 🚀 I'm also building an **AI-powered digital services venture** — websites, apps, and automation for small businesses.
-- 📫 How to reach me: **[add your email or LinkedIn here]**
+- 📫 How to reach me: **https://www.linkedin.com/in/pankaj-yadav-2494671b7/**
 
 ---
 
